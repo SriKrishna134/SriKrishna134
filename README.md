@@ -8,7 +8,7 @@ I am a second-year Computer Engineering student at Visvesvaraya University, with
 - 🌐🖱️ Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻⚙️ Building NextJS applications with MySQL
 
-Feel free to explore my [coding portfolio!](https://krishs-portfolio.vercel.app/) 
+Feel free to explore my [coding portfolio!](https://skrish-portfolio.vercel.app/) 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikrishna-hireholi/)
