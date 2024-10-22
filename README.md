@@ -10,7 +10,7 @@ I am a second-year Computer Science Engineering student at Visvesvaraya Universi
 
 Feel free to explore my [coding portfolio!](https://skrish-portfolio.vercel.app/) 
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikrishna-hireholi/)
 
 # 👨🏻‍💻 Tech Stack:
