@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a second-year Computer Science Engineering student at Visvesvaraya University, with a strong passion for coding, machine learning, and developing scalable, robust applications. I am committed to enhancing my technical expertise and contributing to innovative solutions in the field of technology. 
 
-# ⚡ What I'm Up To
+## ⚡ What I'm Up To:
 
 - 🌐🖱️ Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻⚙️ Building NextJS applications with MySQL
