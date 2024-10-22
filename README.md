@@ -40,4 +40,4 @@ Libraries/Frameworks:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
-![Snake Animation](https://raw.githubusercontent.com/SriKrishna134/snake/refs/heads/main/snake.svg) 
+![Snake Simulation](https://raw.githubusercontent.com/SriKrishna134/snake/refs/heads/main/snake.svg) 
