@@ -5,7 +5,7 @@ I am a second-year Computer Science Engineering student at Visvesvaraya Universi
 
 ## ⚡ What I'm Up To:
 
-- 🌐🖱️ Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 🌐🖱️ Exploring Machine Learning with scikit-learn
 - 💻⚙️ Building Notable NextJS applications with MySQL
 
 Feel free to explore my [coding portfolio!](https://skrish-portfolio.vercel.app/) 
